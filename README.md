@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @StringDoctor
+- 👀 I’m interested in becoming a full stack developer.
+- 🌱 I’m currently learning HTML and CSS.
+- ✌🏻 Happy to be here !
